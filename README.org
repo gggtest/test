@@ -1,0 +1,5 @@
+#+STARTUP: showall
+
+* test
+** h
+*** eaou
